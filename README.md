@@ -5,10 +5,6 @@
 The Future of Sovereign Data Storage
 A quantum-resistant, cognitive storage platform with century-scale data integrity
 
-https://img.shields.io/badge/License-MIT-blue.svg
-https://img.shields.io/badge/Status-Concept%20Phase-orange
-https://img.shields.io/badge/Tech-Future--Proof%20Storage-green
-https://img.shields.io/badge/AI-DeepSeek%20Powered-purple
 
 📋 Project Overview
 
